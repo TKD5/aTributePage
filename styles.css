@@ -1,0 +1,65 @@
+main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+#title {
+  font-family: Tahoma;
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: Tahoma;
+}
+
+#img-div {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin: auto;
+  margin-bottom: 0;
+}
+#img-caption {
+  margin-top: 5px;
+  text-align: center;
+  font-family: Tahoma;
+}
+
+#tribute-info {
+  text-align: center;
+  font-family: Tahoma;
+}
+.tribute-list {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: auto;
+}
+.tribute-list li {
+  padding-bottom: 16px;
+  padding-top: 16px;
+  font-family: Tahoma;
+  letter-spacing: 1px;
+}
+
+.bold {
+  font-weight: 800;
+  font-size: 18px;
+  padding-right: 4px;
+}
+
+h3 {
+  text-align: center;
+  font-family: Tahoma;
+  margin-top: 3em;
+}
